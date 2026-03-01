@@ -25,7 +25,6 @@ function calcularNivel(vitorias) {
     return nivel;
 }
 
-
 // Exemplo de uso
 let vitorias = 15;
 let derrotas = 3;
