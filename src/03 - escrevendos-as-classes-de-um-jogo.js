@@ -20,5 +20,5 @@ class hero {
     }
 }
 
-heroMagico = new hero("gandalf", 1000, "mago");
+let heroMagico = new hero("gandalf", 1000, "mago");
 heroMagico.atacar();
